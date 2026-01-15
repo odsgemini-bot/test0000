@@ -31,7 +31,7 @@ const App: React.FC = () => {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center font-bold">V</div>
-            <span className="text-xl font-bold tracking-tight">VercelVite <span className="text-blue-500">Demo</span></span>
+            <span className="text-xl font-bold tracking-tight">안녕하세요</span>
           </div>
           <div className="hidden md:flex gap-8 text-sm font-medium text-slate-400">
             <a href="#features" className="hover:text-white transition-colors">Features</a>

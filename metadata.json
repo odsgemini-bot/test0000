@@ -1,0 +1,5 @@
+{
+  "name": "Vite-Gemini-Vercel Showcase",
+  "description": "A high-performance React application built with Vite and Gemini API, optimized for Vercel deployment with a focus on modern UI/UX.",
+  "requestFramePermissions": []
+}
